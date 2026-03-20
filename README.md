@@ -1,6 +1,7 @@
 # projeto-skincare-bi
 
 🧴 Projeto de Análise de Dados - Skincare
+
 Status: 🚧 Em desenvolvimento (Ajustando interface visual).
 
 O que já foi feito:
